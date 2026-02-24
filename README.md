@@ -137,7 +137,7 @@
 
 *   [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 
-*   [vercel/openchat](https://github.com/vercel/openchat) - A full-featured, hackable Next.js AI chatbot built by Vercel
+*   [vercel/chatbot](https://github.com/vercel/chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
 
 *   [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 
